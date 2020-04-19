@@ -17,11 +17,11 @@ class CreateAppointmentService {
   public execute({ date, provider }: Request): Appointment {
     const appointmentDate = startOfHour(date);
 
-    const findAppointmentInSemeDate = this.appointmentsRepository.findByDate(
+    const findAppointmentInSameDate = this.appointmentsRepository.findByDate(
       appointmentDate,
     );
 
-    if (findAppointmentInSemeDate) {
+    if (findAppointmentInSameDate) {
       throw Error('This appointment is already booked.');
     }
 
