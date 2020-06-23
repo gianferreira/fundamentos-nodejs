@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Node.js" src="https://github.com/gianferreira/fundamentos-nodejs/blob/master/nodejs-logo.png" width="120px"/>
+  <img alt="Node.js" src="https://github.com/gianferreira/fundamentos-nodejs/blob/master/nodejs-logo.png" width="135px"/>
 </h3>
 
 <h1 align="center">
