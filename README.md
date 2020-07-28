@@ -1,12 +1,12 @@
 <h3 align="center">
-  <img alt="Node.js" src="https://github.com/gianferreira/fundamentos-nodejs/blob/master/nodejs-logo.png" width="135px"/>
+  <img alt="Node.js" src="https://github.com/gianferreira/fundamentos-nodejs/blob/master/nodejs-logo.png" height="85px"/>
 </h3>
 
 <h1 align="center">
   Projeto Node.js
 </h1>
 
-<p align="center">Projeto configurado do total zero com Typescript e Node.js aplicado a construção de uma API.</p>
+<p align="center">Projeto configurado do total zero com Typescript e Node.js aplicado a construção de uma API</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/fundamentos-nodejs">
@@ -62,8 +62,8 @@ yarn dev:server
 </p>
 
 <blockquote align="center">
-  Este projeto foi desenvolvimento durante o
+  Este projeto foi desenvolvido durante o
     <a href="https://rocketseat.com.br/gostack">
-      Bootcamp da RocketSeat
+      Bootcamp da Rocketseat
     </a>
 </blockquote>
